@@ -1,0 +1,5 @@
+cython
+grpcio
+grpcio-tools
+huggingface-hub==0.23.5
+consulate
